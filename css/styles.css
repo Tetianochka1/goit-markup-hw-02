@@ -119,6 +119,14 @@ color: #2e2f42;
 
 /* ==========our team=========== */
 
+.our-team{
+    background-color: #f4f4fd;
+}
+
+.our-team-item{
+    background-color: #ffffff;
+}
+
 .our-team--item-name {
     font-weight: 500;
     font-size: 20px;
@@ -132,7 +140,7 @@ color: #2e2f42;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-text-align: left;
+text-align: center;
 }
 /* ===========Our Portfolio================ */
 
@@ -145,7 +153,6 @@ text-align: left;
 }
 
 .our-portfolio-item-descrp{
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
